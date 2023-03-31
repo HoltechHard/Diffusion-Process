@@ -1,2 +1,2 @@
 # Diffusion-Process
-Partial Differential Equation of Diffusion Process using Finite Element Method
+Solution of Partial Differential Equation in Diffusion Process using Finite Element Method
